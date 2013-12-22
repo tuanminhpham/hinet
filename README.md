@@ -1,4 +1,4 @@
 hinet
 =====
 
-social adhoc networking
+social adroid adhoc networking
